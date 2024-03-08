@@ -1,0 +1,12 @@
+profile:
+  id: 6049ba5de687e5467a26a801
+  firstname: Yichen
+  lastname: Wu
+  username: yichenw5
+  email: yichenw5@illinois.edu
+  access_key: auth0|6049ba5e4b70b10070bce3e6
+  secret_key: JGFyZ29uMmkkdj0xOSRtPTMyNzY4LHQ9NCxwPTQkMFpzVzJUYXpwRzB6VExCMWNMVVMwdyR6WWFDeFBMNDhFLzYybkpUeEhHeEZXeVBFSG9kTlFpUTlIano0Y1lPbjR3
+  affiliation: UIUC
+  team:
+    name: ""
+  role: ECE408
